@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootvue.iml" filepath="$PROJECT_DIR$/springbootvue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vnightray-admin/vnightray-admin.iml" filepath="$PROJECT_DIR$/vnightray-admin/vnightray-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vnightray-common/vnightray-common.iml" filepath="$PROJECT_DIR$/vnightray-common/vnightray-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vnightray-core/vnightray-core.iml" filepath="$PROJECT_DIR$/vnightray-core/vnightray-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vnightray-generator/vnightray-generator.iml" filepath="$PROJECT_DIR$/vnightray-generator/vnightray-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vnightray-quartz/vnightray-quartz.iml" filepath="$PROJECT_DIR$/vnightray-quartz/vnightray-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vnightray-system/vnightray-system.iml" filepath="$PROJECT_DIR$/vnightray-system/vnightray-system.iml" />
+    </modules>
+  </component>
+</project>

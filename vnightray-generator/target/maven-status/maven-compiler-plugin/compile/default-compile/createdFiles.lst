@@ -1,0 +1,13 @@
+com\vnightray\generator\config\GenConfig.class
+com\vnightray\generator\domain\GenTable.class
+com\vnightray\generator\service\IGenTableService.class
+com\vnightray\generator\util\VelocityUtils.class
+com\vnightray\generator\mapper\GenTableColumnMapper.class
+com\vnightray\generator\controller\GenController.class
+com\vnightray\generator\domain\GenTableColumn.class
+com\vnightray\generator\util\GenUtils.class
+com\vnightray\generator\service\IGenTableColumnService.class
+com\vnightray\generator\mapper\GenTableMapper.class
+com\vnightray\generator\service\GenTableColumnServiceImpl.class
+com\vnightray\generator\service\GenTableServiceImpl.class
+com\vnightray\generator\util\VelocityInitializer.class

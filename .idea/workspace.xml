@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d4337ad-afbf-4f9f-b3b6-68d0f9e34b70" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29xhPk8uiqjy5uz8VM4dmXGj8vA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="C:/ProgramFiles/android" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.vnightray.core" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vnightray.admin.webapp.common" />
+      <recent name="com.vnightray.core.web.service" />
+      <recent name="com.vnightray.common.core.domain" />
+      <recent name="com.vnightray.common.exception" />
+      <recent name="com.vnightray.common.exception.file" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\useful\springbootdemo\MySpringboot_vue\springbootvue" />
+      <recent name="E:\useful\springbootdemo\MySpringboot_vue\springbootvue\vnightray-system\src\main\resources" />
+      <recent name="E:\useful\springbootdemo\MySpringboot_vue\springbootvue\vnightray-generator\src\main\resources" />
+      <recent name="E:\useful\springbootdemo\MySpringboot_vue\springbootvue\vnightray-admin\src\main\resources" />
+      <recent name="E:\useful\springbootdemo\MySpringboot_vue\springbootvue\vnightray-admin\src\main\java\com\vnightray\admin" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VnightrayAdminApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootvueApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootvue" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.springbootvue.SpringbootvueApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vnightray-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VnightrayAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vnightray-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.admin.VnightrayAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VnightrayCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vnightray-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.common.VnightrayCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VnightrayCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vnightray-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.vnightraycore.VnightrayCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VnightrayGeneratorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vnightray-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.vnightraygenerator.VnightrayGeneratorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VnightrayQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vnightray-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.quartz.VnightrayQuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VnightraySystemApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vnightray-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.vnightraysystem.VnightraySystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VnightraySystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vnightray.system.VnightraySystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="未开始" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="用户自定义" created="1654097074555" text="@org.springframework.context.annotation.Bean" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d4337ad-afbf-4f9f-b3b6-68d0f9e34b70" name="默认更改列表" comment="" />
+      <created>1654060621082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654060621082</updated>
+      <workItem from="1654060625000" duration="30638000" />
+      <workItem from="1654132457779" duration="3625000" />
+      <workItem from="1654139258608" duration="1308000" />
+      <workItem from="1654149877147" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Inspections" timestamp="1654097243278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1654097243278" />
+    <state x="223" y="70" width="1155" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654092617639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" width="1155" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1654092617639" />
+    <state x="964" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1654065549917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="964" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1654065549917" />
+    <state x="958" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1654069129012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1654069129012" />
+    <state x="531" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1654092609447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1654092609447" />
+    <state x="456" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1654081446428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="456" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1654081446428" />
+    <state x="917" y="281" width="471" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1654082951674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="917" y="281" width="471" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1654082951674" />
+    <state x="18" y="264" width="942" height="336" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1654097074546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="18" y="264" width="942" height="336" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1654097074546" />
+    <state x="933" y="108" key="FileChooserDialogImpl" timestamp="1654065971648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1654065971648" />
+    <state width="1024" height="243" key="GridCell.Tab.0.bottom" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state width="1024" height="243" key="GridCell.Tab.0.center" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state width="1024" height="243" key="GridCell.Tab.0.left" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state width="1024" height="243" key="GridCell.Tab.0.right" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state width="1024" height="243" key="GridCell.Tab.1.bottom" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state width="1024" height="243" key="GridCell.Tab.1.center" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state width="1024" height="243" key="GridCell.Tab.1.left" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state width="1024" height="243" key="GridCell.Tab.1.right" timestamp="1654141976876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1654141976876" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1654134849283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1654134849283" />
+    <state x="834" y="207" width="611" height="490" key="find.popup" timestamp="1654095822175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="834" y="207" width="611" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1654095822175" />
+    <state x="222" y="88" key="new project wizard" timestamp="1654135285893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="88" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1654135285893" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1654067666360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1654067666360" />
+  </component>
+</project>

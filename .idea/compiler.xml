@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vnightray-admin" />
+        <module name="vnightray-common" />
+        <module name="vnightray-core" />
+        <module name="vnightray-quartz" />
+        <module name="vnightray-generator" />
+        <module name="vnightray-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="springbootvue" target="1.8" />
+      <module name="system" target="1.8" />
+      <module name="vnightray-admin" target="1.8" />
+      <module name="vnightray-common" target="1.8" />
+      <module name="vnightray-core" target="1.8" />
+      <module name="vnightray-generator" target="1.8" />
+      <module name="vnightray-quartz" target="1.8" />
+      <module name="vnightray-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
